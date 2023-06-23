@@ -74,7 +74,7 @@ HERO AREA
 #hero{
     color: rgb(0, 0, 0);
     text-align: center;
-    /* background: url(../asset/306942.jpg)no-repeat; */
+    background: url(../asset/icon/background1.jpg)no-repeat;
     max-height: 880px;
     overflow: hidden;
 }
