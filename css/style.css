@@ -13,6 +13,12 @@ body {
     line-height: 1.8em;
 }
 
+img {
+    width: 200px;
+    height: 150px;
+}
+
+
 .bigicon {font-size: 3em;}
 h2{font-size: 42px;}
 h3{font-size: 28px;}
