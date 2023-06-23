@@ -15,7 +15,7 @@ body {
 
 img {
     width: 200px;
-    height: 150px;
+    height: 160px;
 }
 
 
@@ -80,7 +80,7 @@ HERO AREA
 #hero{
     color: rgb(0, 0, 0);
     text-align: center;
-    background: url(../asset/icon/background1.jpg)no-repeat;
+    background: url(../asset/top-bg.jpg);
     max-height: 880px;
     overflow: hidden;
 }
